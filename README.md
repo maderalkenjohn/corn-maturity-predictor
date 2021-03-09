@@ -12,7 +12,7 @@ The Web-Based Corn Maturity Predictor built using Laravel Web Application Framew
 
 ## Built Using
 
-- Laravel Web Framework
+- Laravel Web Framework 8.28.0
 - JQuery AJAX
 - OpenCV-Python
 - SweetAlert2
@@ -24,6 +24,6 @@ The Web-Based Corn Maturity Predictor built using Laravel Web Application Framew
 
 ## Table View
 
-<img src="images/populatedtable.jpg">
+<img src="images/populatedtable.jpg" width="100%" height="100%">
 
 
