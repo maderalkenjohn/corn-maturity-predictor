@@ -18,7 +18,16 @@ The Web-Based Corn Maturity Predictor built using Laravel Web Application Framew
 - SweetAlert2
 - LAMP (Software Bundle)
 
-## Create New Batch and Upload New Corn Image Forms
+## Functionality
+
+- Create New Batch
+- Upload New Corn Image
+- Update and Delete Table Entry
+- Search and Sort Datatables
+- Filter by Batch Number
+- View Table Results
+
+## Forms
 
 <img src="images/createupload.jpg">
 
